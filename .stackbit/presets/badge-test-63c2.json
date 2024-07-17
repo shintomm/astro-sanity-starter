@@ -1,0 +1,21 @@
+{
+    "model": "badge",
+    "srcType": "sanity",
+    "srcProjectId": "7rv32d2w",
+    "presets": [
+        {
+            "label": "test",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "videos"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "check the videos",
+                "theme": "secondary"
+            }
+        }
+    ]
+}
